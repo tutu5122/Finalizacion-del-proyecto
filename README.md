@@ -49,7 +49,7 @@ He seleccionado la **Prueba Skate Park** como ejemplo de mis habilidades. Esta p
 
 Al seleccionar la competencia de Skate como ejemplo de mis habilidades como desarrollador Full Stack, destaco su aplicabilidad práctica en el mercado laboral. El uso de tecnologías como Express, Handlebars, PostgreSQL, JWT y Express-fileupload evidencia mi competencia para trabajar con herramientas modernas y abordar tareas complejas tanto en el frontend como en el backend. Esta prueba brinda una oportunidad para exhibir mi destreza en la implementación de la lógica del negocio y la gestión de datos. La necesidad de manejar archivos y autenticar usuarios añade un desafío adicional que subraya mi habilidad para abordar funcionalidades avanzadas de manera efectiva.
 
-**Vínculo de Visualización:** [Link a la Prueba](https://github.com/tutu5122/SkatePark))
+**Vínculo de Visualización:** ([Link a la Prueba](https://github.com/tutu5122/SkatePark))
 
 ### 4. Creación del Perfil en el Servidor de Alojamiento
 
