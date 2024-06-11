@@ -53,7 +53,7 @@ Al seleccionar la competencia de Skate como ejemplo de mis habilidades como desa
 
 ### 4. Creación del Perfil en el Servidor de Alojamiento
 
-**Perfil en GitHub:** [https://github.com/tutu5122]
+**Perfil en GitHub:** https://github.com/tutu5122
 
 - **¿Quién eres?**
   Soy María Jesús Pérez, interesada en la creación de soluciones tecnológicas innovadoras. Estoy en proceso de transición al área de programación y estoy emocionada por explorar nuevas oportunidades en este campo dinámico y desafiante. 
