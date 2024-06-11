@@ -27,7 +27,8 @@ He seleccionado **GitHub** como el repositorio para mi portafolio digital debido
 - **Pantallazos:**
 
   ![Ejemplo de Portafolio]([[https://github.com/mouredev/portafolio-template/blob/main/demo.png)](https://github.com/mouredev/portafolio-template/blob/main/demo.png))
-  [[https://github.com/mouredev/portafolio-template?tab=readme-ov-file](https://portafolio-template.vercel.app/)]
+  [(https://portafolio-template.vercel.app/)]
+
 **Características que me gustan:**
 
 1. **Diseño Limpio y Profesional:** La estructura visual es clara, profesional y fácil de navegar, lo cual mejora la experiencia del usuario.
