@@ -26,7 +26,7 @@ He seleccionado **GitHub** como el repositorio para mi portafolio digital debido
 - **Link:** [https://github.com/mouredev/portafolio-template?tab=readme-ov-file]
 - **Pantallazos:**
 
-  [Ejemplo de Portafolio][(https://github.com/mouredev/portafolio-template/blob/main/demo.png)]
+  [(https://github.com/mouredev/portafolio-template/blob/main/demo.png)]
   [(https://portafolio-template.vercel.app/)]
 
 **Características que me gustan:**
