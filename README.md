@@ -74,7 +74,7 @@ Al seleccionar la competencia de Skate como ejemplo de mis habilidades como desa
   Deberían contactarme porque tengo una sólida formación en desarrollo Full Stack JavaScript y estoy motivado/a para entrar en la programación. Además, mi experiencia en contabilidad me ha proporcionado habilidades analíticas y de resolución de problemas que puedo aplicar en el desarrollo de software.
 
 - **¿Cómo y a través de qué medios te pueden contactar?**
-  Pueden contactarme a través de mi email mjperez5122@gmail.com o por LinkedIn en (https://www.linkedin.com/in/mariajesusperez-analistacontable/), o por teléfono al +56967316732.
+  Pueden contactarme a través de mi email mjperez5122@gmail.com o por LinkedIn en https://www.linkedin.com/in/mariajesusperez-analistacontable, o por teléfono al +56967316732.
 
 ### 5. Buenas Prácticas para el Desarrollo del Portafolio
 
