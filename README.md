@@ -23,7 +23,7 @@ He seleccionado **GitHub** como el repositorio para mi portafolio digital debido
 
 **Ejemplo de Portafolio:**
 
-- **Link:** [https://github.com/mouredev/portafolio-template?tab=readme-ov-file]
+- **Link:** [(https://github.com/mouredev/portafolio-template?tab=readme-ov-file)]
 - **Pantallazos:**
 
   [(https://github.com/mouredev/portafolio-template/blob/main/demo.png)]
